@@ -1,1 +1,1 @@
-# odin-recipes
+# I test out my HTML skills in this project, such as utilizing the structure of webpages, linking pages to one another, referencing external and relative media, listing, and clean file management.
